@@ -52,7 +52,7 @@ export default class TableScene {
 
     var size = 10;
     var divisions = 10;
-
+//eva's test
     var gridHelper = new THREE.GridHelper(size, divisions);
     this.scene.add(gridHelper);
     /*
